@@ -5,7 +5,7 @@ permalink: /samples/
 ---
 
 <main>
-<h2>Samples</h2>
+<!-- <h2>Samples</h2> -->
 
 <h3>Avizia Home Page</h3>
 <p><a href="http://www.pdf-archive.com/2016/05/31/avizia-sample-homepage/preview/page/1/"> View Here </a></p>

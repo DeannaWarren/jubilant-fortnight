@@ -6,7 +6,7 @@ permalink: /writing-systems/
 
 <main>
 <h3> Contact and Communications Policies </h3>
-<p>As we work together, it is important that we have fast and easy communication. During our projects, I am available Monday through Friday, 9 AM to 5 PM Pacific time. By far, the best <a href="contact.html">way to reach me</a> is through email at Craig@CopywritingForHealthcare.com. If you need to contact me regarding an urgent matter, please call me at (831)704-8159.</p>
+<p>As we work together, it is important that we have fast and easy communication. During our projects, I am available Monday through Friday, 9 AM to 5 PM Pacific time. By far, the best <a href="/contact">way to reach me</a> is through email at Craig@CopywritingForHealthcare.com. If you need to contact me regarding an urgent matter, please call me at (831)704-8159.</p>
 
 <h3> Discussing the Project and Questionnaire </h3>
 <p> To get started with a potential project, I’ll send you a complete Discovery Questionnaire. This Questionnaire will help us define the scope of the project and ensure maximum results. When you email me back, I’ll send you a link to the Questionnaire. Please return it to me as quickly as possible— this generally takes clients 1 to 3 business days. </p>
@@ -21,7 +21,7 @@ permalink: /writing-systems/
 <p> As needed, I will reach out to you for additional details, product samples, and other resources. You can be confident that I’ll quickly and effectively understand your products, your voice, and your client’s core emotional purchase drivers. I can help you discover your client’s needs through thorough research, and I’m familiar with technology terminology and quickly learn anything tech-related that I don’t already know.</p>
 
 <h3> Collaboration </h3>
-<p> As we work on this project together, communication is critical. Some of my clients are very busy, and they prefer to hand off the project to me and review the first draft, with little communication in between. Others like dealing with me on an almost daily basis and stay involved at just about every step of the project. Which are you? Please <a href="contact.html">send me an email</a> and let me know how often you like to communicate and how best to reach you (e.g. email, phone, social media, etc.) </p>
+<p> As we work on this project together, communication is critical. Some of my clients are very busy, and they prefer to hand off the project to me and review the first draft, with little communication in between. Others like dealing with me on an almost daily basis and stay involved at just about every step of the project. Which are you? Please <a href="/contact">send me an email</a> and let me know how often you like to communicate and how best to reach you (e.g. email, phone, social media, etc.) </p>
 <p> One other point… I require that you assign me a single contact person on your team. I will communicate directly with this person, and they will communicate with your other team members, as needed, to obtain information and approvals. </p>
 <p> Finally, I STRONGLY encourage you to become familiar with Dropbox. I do much of my writing with this word processing tool. It allows us to share files and folders. Documents can be shared with various team members, and the working document is always the current document — no need to worry about sending wrong files or things getting lost.</p>
 

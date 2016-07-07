@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Testimonials
+title: What Others Say
 permalink: /testimonials/
 ---
 
 <main>
-<h2 class="text-center">What Others Say About Craig</h2>
+<!-- <h2 class="text-center">What Others Say About Craig</h2> -->
 
 <p>“You are very driven and motivated. When you have something you want to achieve, you do what it takes to get there.” -Rebecca McClary
 </p>

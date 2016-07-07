@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: About Craig
 permalink: /about/
 ---
 
 <main>
 
-<h2>Getting to Know Craig</h2>
+<!-- <h2>Getting to Know Craig</h2> -->
 
 <div class="row">
 
@@ -20,7 +20,7 @@ permalink: /about/
     <p>   As a Music Therapist, Craig shared his love for music in mental hospitals, nursing homes and schools. Craig helped his patients by listening to their stories and helping them express themselves through music. Nonjudgmental listening helps Craig meet his client’s needs and exceed their expectations. </p>
 
     <p>   Craig currently works as a freelance healthcare copywriter, specializing in web copy. Craig says, “I love learning about you and creatively communicating how your company helps others.” </p>
-    <p> Find out how Craig can help you. Craig <a href="contact.html">can be reached directly</a> at (831)-704-8159 or by email at Craig@CopywritingForHealthcare.com. </p>
+    <p> Find out how Craig can help you. Craig <a href="/contact">can be reached directly</a> at (831)-704-8159 or by email at Craig@CopywritingForHealthcare.com. </p>
   </div>
 
   <div class="col-md-6"> 
