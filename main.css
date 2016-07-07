@@ -46,3 +46,8 @@ footer {
 img {
   width: 100%;
 }
+.post-header img {
+  width:50%;
+  margin: 0;
+  padding: 2em;
+}
