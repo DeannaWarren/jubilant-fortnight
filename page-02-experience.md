@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Experience
+title: Craig's Experience
 permalink: /experience/
 ---
 
 <main>
 
-<h2 class="text-center">Experience</h2>
+<!-- <h2 class="text-center">Experience</h2> -->
 
 <h3>American Writers and Artists, Inc.</h3>
 <ul>
@@ -31,7 +31,7 @@ permalink: /experience/
 
 <h3> University of the Pacific Conservatory of Music  </h3>
 <ul>
-  <li> Received <a href="www.Pacific.edu">Bachelor’s degrees</a> in Piano Performance and Music Therapy. </li>
+  <li> Received <a href="http://www.Pacific.edu">Bachelor’s degrees</a> in Piano Performance and Music Therapy. </li>
   <li> Coursework included small business marketing, clinical writing and research skills.  </li>
 </ul>
 

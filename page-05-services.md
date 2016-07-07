@@ -5,7 +5,7 @@ permalink: /services/
 ---
 
 <main>
-    <h2 class="text-center"> Services </h2>
+    <!-- <h2 class="text-center"> Services </h2> -->
     <table class="table-striped">
       <tr>
         <th> Service Description </th>
