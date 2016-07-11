@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How Thorough Research Explodes Your Business"
-date:   2016-07-10
+date:   2016-07-11
 categories: blogs
 image: "/img/2016-07-11-how-thorough-research-explodes-your-business.png"
 ---
@@ -27,9 +27,9 @@ Next, I used online databases and discovered international journals with article
 ### How to Evaluate the Quality of Information
 As I read, I evaluated the information and decided what to include in my study. Some of the criteria I considered were: 
 
-* Recency: When was this information published?
-* Authorship: Was the author a reputable source of information? What were their credentials?
-* Sources: Was the author using other credible sources to support their claims, or were they offering their opinion? Were the sources they referenced available to review?
+* __Recency__: When was this information published?
+* __Authorship__: Was the author a reputable source of information? What were their credentials?
+* __Sources__: Was the author using other credible sources to support their claims, or were they offering their opinion? Were the sources they referenced available to review?
 
 ### Big Ideas from Research Yielded Immediate Results
 
