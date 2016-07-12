@@ -19,9 +19,9 @@ main {
   padding-bottom: 50px;
 }
 
-p {
-  /*text-indent: 1em;*/
-}
+/*p {
+  text-indent: 1em;
+}*/
 
 h1 {
   text-align: center;
@@ -55,12 +55,13 @@ footer {
 }
 img {
   width: 100%;
+  padding-bottom: 1em;
 }
-.post-header img {
+/*.post-header img {
   width:50%;
   margin: 0;
   padding: 2em;
-}
+}*/
 .post p {
   text-indent: 1em;
 }
