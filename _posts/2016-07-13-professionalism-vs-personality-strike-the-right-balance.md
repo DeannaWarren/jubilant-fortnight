@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Professionalism vs Personality: Strike the Right Balance"
-date: 2016-07-11
+date: 2016-07-13
 categories: blogs
 image: "/img/2016-07-13-professionalism-vs-personality-strike-the-right-balance.png"
 ---
