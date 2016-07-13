@@ -3,7 +3,7 @@ layout: post
 title:  "4 Ways a Copywriter Rescues You From Your Overwhelming Schedule"
 date:   2016-07-07
 categories: blogs
-image: "/2016-07-07-4-ways-a-copywriter-rescues-you-from-your-overwhelming-schedule.png"
+image: "/img/2016-07-07-4-ways-a-copywriter-rescues-you-from-your-overwhelming-schedule.png"
 ---
 
 As a marketing professional, you have a lot on your plate. You probably have several marketing campaigns to manage simultaneously. You’re under pressure to produce better results in less time. 
