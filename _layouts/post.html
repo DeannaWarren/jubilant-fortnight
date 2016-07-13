@@ -7,8 +7,17 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-    {% if page.image %} <img src="{{ page.image }}"> {% endif %}
   </header>
+  
+  {% if page.image %} 
+  <div class="row">
+    <div class="col-sm-1 col-md-2"></div>
+    <div class="col-sm-10 col-md-8">
+      <img src="{{ page.image }}">
+    </div>
+    <div class="col-sm-1 col-md-2"></div>
+  </div>
+  {% endif %}
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
