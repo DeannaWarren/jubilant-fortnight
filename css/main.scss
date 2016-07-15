@@ -1,3 +1,71 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  /*font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;*/
+  /*font-family: Verdana, Geneva, sans-serif;*/
+}
+
+footer img {
+  width: 10%;
+  margin: 10px;
+}
+
+table {
+  margin:0 auto;
+}
+
+main {
+  /*width: 80%;*/
+  /*margin: 0 auto;*/
+  padding-bottom: 50px;
+}
+
+/*p {
+  text-indent: 1em;
+}*/
+
+h1 {
+  text-align: center;
+  color: midnightblue;
+  /*font-size: 3em;*/
+}
+
+h2 {
+  color: midnightblue;
+}
+
+main p {
+  font-size: 1.5em;
+}
+
+ol li {
+  font-size: 1.5em;
+}
+
+ul li {
+  font-size: 1.5em;
+}
+
+th,td {
+	font-size: 1.25em;
+}
+footer {
+	text-align: center;
+    height: 100px;
+    width: 100%;
+}
+img {
+  width: 100%;
+  padding-bottom: 1em;
+}
+/*.post-header img {
+  width:50%;
+  margin: 0;
+  padding: 2em;
+}*/
+.post p {
+  text-indent: 1em;
+}
