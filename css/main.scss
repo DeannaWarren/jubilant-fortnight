@@ -2,10 +2,15 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+$heading-color: midnightblue;
+$sidebar-color: red;
+
+.sidebar{
+	background-color: blue;
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
-  /*font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;*/
-  /*font-family: Verdana, Geneva, sans-serif;*/
 }
 
 footer img {
@@ -18,23 +23,20 @@ table {
 }
 
 main {
-  /*width: 80%;*/
-  /*margin: 0 auto;*/
   padding-bottom: 50px;
 }
 
-/*p {
-  text-indent: 1em;
-}*/
-
 h1 {
   text-align: center;
-  color: midnightblue;
   /*font-size: 3em;*/
+  a {
+	  color: $heading-color;
+  }
 }
 
 h2 {
-  color: midnightblue;
+  color: $heading-color;
+  text-align: center;
 }
 
 main p {
@@ -42,7 +44,7 @@ main p {
 }
 
 ol li {
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 ul li {
@@ -57,15 +59,12 @@ footer {
     height: 100px;
     width: 100%;
 }
+
 img {
   width: 100%;
   padding-bottom: 1em;
 }
-/*.post-header img {
-  width:50%;
-  margin: 0;
-  padding: 2em;
-}*/
+
 .post p {
   text-indent: 1em;
 }
