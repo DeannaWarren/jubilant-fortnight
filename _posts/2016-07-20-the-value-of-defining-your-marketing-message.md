@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  “The Value of Defining Your Marketing Message”
+title: "The Value of Defining Your Marketing Message"
 date:   2016-07-20
 categories: blogs
-image: “/img/2016-07-20-the-value-of-defining-your-marketing-message.png”
+image: "/img/2016-07-20-the-value-of-defining-your-marketing-message.png"
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  “8 Elements of an Attractive Social Media Profile”
+title:  "8 Elements of an Attractive Social Media Profile"
 date:   2016-07-18
 categories: blogs
-image: “/img/2016-07-18-8-elements-of-an-attractive-social-media-profile.png”
+image: "/img/2016-07-18-8-elements-of-an-attractive-social-media-profile.png"
 ---
 
 
