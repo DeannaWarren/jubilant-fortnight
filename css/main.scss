@@ -2,30 +2,53 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-$heading-color: #260126; /*mdinightblue*/
-$sidebar-color: #8C6954;
-$header-color: #260126;
-$nav-color: #F2EEB3;
-$background-color: white;
+//http://www.dtelepathy.com/blog/inspiration/beautiful-color-palettes-for-your-next-web-project #51
+// $color-one: #2B2301; // dark olive green // headings
+// $color-two: #E2D893; // light beige // actual background
+// $color-three: #A79E65; // light brown // 
+// $color-four: #72AEB5; // light blue // 
+// $color-five: #5E9CA0; // medium blue // 
 
-html{
-  padding: 0;
-}
+// $color-one: #125E8A; // dark blue
+// $color-two: #C2B8B2; // light beige
+// $color-three: #8A716A; // light brown
+// $color-four: #7FFFBF; // light green
+// $color-five: #007FCA; // medium blue
+
+// color one : headings;
+// two: actual background
+// three: page background
+// four: accent one
+// five: accent two
+
+$color-one: midnightblue;
+$color-two: white;
+$color-three: white;
+$color-four: white;
+$color-five: white;
+
+$text-color: black;
 
 body {
   padding: 0;
   font-family: 'Open Sans', sans-serif;
-  background-color: $sidebar-color;
+  background-color: $color-three;
 }
 
 header {
-  background-color: $background-color;
+  background-color: $color-three;
   width: 100%;
 }
 
-footer img {
-  width: 10%;
-  margin: 10px;
+footer {
+  background-color: $color-three;
+  text-align: center;
+  /*height: 100px;*/
+  width: 100%;
+  img {
+    width: 10%;
+    margin: 10px;
+  }
 }
 
 table {
@@ -37,23 +60,35 @@ main {
   margin-bottom: 50px;
   padding-top: 1em;
   padding-bottom: 1em;
-  background-color: $background-color;
+  background-color: $color-two;
 }
 
 h1 {
   margin: 0;
   padding: 10px;
   text-align: center;
-  /*font-size: 3em;*/
   a {
-	  color: $heading-color;
+    color: $color-one;
   }
 }
 
 h2 {
-  color: $heading-color;
+  color: $color-one;
   text-align: center;
 }
+
+h3 {
+  color: $color-one;
+  font-weight: heavy;
+  font-size: 2em;
+}
+
+// .custom-navbar {
+//   background-color: $color-five;
+//   a {
+//     color: $text-color;
+//   }
+// }
 
 main p {
   font-size: 1.5em;
@@ -69,12 +104,6 @@ ul li {
 
 th,td {
 	font-size: 1.25em;
-}
-footer {
-  background-color: $background-color;
-	text-align: center;
-  /*height: 100px;*/
-  width: 100%;
 }
 
 img {
