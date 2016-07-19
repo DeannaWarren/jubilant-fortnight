@@ -4,6 +4,7 @@ title: "The Value of Defining Your Marketing Message"
 date:   2016-07-20
 categories: blogs
 image: "/img/2016-07-20-the-value-of-defining-your-marketing-message.png"
+buffer: "The Value of Defining Your Marketing Message - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/07/20/the-value-of-defining-your-marketing-message.html"
 ---
 
 
