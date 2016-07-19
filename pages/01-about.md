@@ -24,7 +24,7 @@ permalink: /about/
   </div>
 
   <div class="col-md-6"> 
-    <img src="/craig-headshot.jpg"> 
+    <img src="/img/craig-headshot.jpg"> 
   </div>
 </div>
 
