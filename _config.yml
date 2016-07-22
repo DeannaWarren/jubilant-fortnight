@@ -21,4 +21,4 @@ github_username:
 markdown: kramdown
 
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
-# include: ['_pages']
+# include: ['_pages ']
