@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “How to Promote by Helping Others on Social Media”
+title: How to Promote by Helping Others on Social Media
 date: 2016-07-29
 categories: blogs
 image: "/img/2016-07-29-how-to-promote-by-helping-others-on-social-media.png"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Newsflash! Make Your Content Newsworthy”
+title: Newsflash! Make Your Content Newsworthy
 date: 2016-08-01
 categories: blogs
 image: "/img/2016-08-01-newsflash-make-your-content-newsworthy.png"
