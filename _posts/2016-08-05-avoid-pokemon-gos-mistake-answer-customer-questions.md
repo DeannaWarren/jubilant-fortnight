@@ -3,9 +3,9 @@ layout: post
 title: "Avoid Pokemon Go’s Mistake: Answer Customer Questions"
 date: 2016-08-05
 categories: blogs
-image: "/img/2016-08-05-avoid-pokemon-gos-mistake-answer-customer-questions.png"
-url: "http://www.copywritingforhealthcare.com/blogs/2016/08/05/avoid-pokemon-gos-mistake-answer-customer-questions.html"
- buffer: “Avoid Pokemon Go’s Mistake: Answer Customer Questions - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/08/05/avoid-pokemon-gos-mistake-answer-customer-questions.html"
+image: "/img/2016-08-05-avoid-pokemon-go’s-mistake:-answer-customer-questions.png"
+url: "http://www.copywritingforhealthcare.com/blogs/2016/08/05/avoid-pokemon-go’s-mistake:-answer-customer-questions.html"
+buffer: "Avoid Pokemon Go’s Mistake: Answer Customer Questions - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/08/05/avoid-pokemon-go’s-mistake:-answer-customer-questions.html"
 ---
 
 
