@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Avoid Pokemon Go’s Mistake: Answer Customer Questions
+title: "Avoid Pokemon Go’s Mistake: Answer Customer Questions"
 date: 2016-08-05
 categories: blogs
 image: "/img/2016-08-05-avoid-pokemon-gos-mistake-answer-customer-questions.png"
