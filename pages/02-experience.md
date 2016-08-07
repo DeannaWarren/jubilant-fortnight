@@ -45,4 +45,12 @@ permalink: /experience/
   <li> As Conference Marketing Coordinator, I led a team of 4 to recruit vendors and advertisers. I called and emailed vendors, coordinated with web designers and conference chairs, and supervised the exhibit hall during the conference weekend. </li>
 </ul>
 
+<!-- Begin: HubSpot Academy - Inbound Certification Badge -->
+<div class='academy-badge'>
+<a href='http://academy.hubspot.com/certification' title='HubSpot Inbound Certification'>
+<img src='http://api.hubapi.com/academy/v1/badge-image/03853a7c5d3540f7b41729d87cc6491d' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Inbound Certification Badge -->
+
 </main>
