@@ -11,7 +11,7 @@ buffer: "6 Books Every Marketer Should Read - Craig Warren http://www.copywritin
 
 As marketers, salespeople, and entrepreneurs, it’s important to continually educate ourselves. There is so much information out there: podcasts, webinars, blogs, newspapers, email newsletters, training programs… With our schedules already full, it can be tempting to ignore one of the greatest resources available: books.
 
-As a bibliophile, (I’ve read 20+ books in the past year) I think reading is worthwhile because of the knowledge you can gain that otherwise isn’t available. Stories expand your imagination, and challenging ideas change your perspective on the world.
+As a bibliophile (I’ve read 20+ books in the past year), I think reading is worthwhile because of the knowledge you can gain that otherwise isn’t available. Stories expand your imagination, and challenging ideas change your perspective on the world.
 
 In other words, if you don’t take time every day to read 10 pages, or listen to 15 minutes of an audiobook, you’re missing out. Here are 6 classic books that have helped me become a better marketer and copywriter over the past year:
 
@@ -33,7 +33,7 @@ It’s hard to succeed in business or in anything without good people skills. If
 
 ### 5. Leadership and Self-Deception by the Arbinger Institute
 
-I’m grateful to my mentor, Joshua Boswell, for recommending this book. The lessons within are truly life-changing—they’ll change the way you view and interact with other people. This book elegantly couches complicated ideas in simple terms in the form of a parable. The big idea: we often unconsciously treat people as objects, when we should treat them as people. The book shows how to shift your attitude by getting “out of the box” and reach your full potential. To find out what that means, you can visit [The Arbinger Institute](https://arbinger.com/product/leadership-and-self-deception/).
+I’m grateful to my mentor, Joshua Boswell, for recommending this book. The lessons within are truly life-changing— they’ll change the way you view and interact with other people. This book elegantly couches complicated ideas in simple terms in the form of a parable. The big idea: we often unconsciously treat people as objects, when we should treat them as people. The book shows how to shift your attitude by getting “out of the box” and reach your full potential. To find out what that means, you can visit [The Arbinger Institute](https://arbinger.com/product/leadership-and-self-deception/).
  
 ### 6. The Slight Edge: Secret to a Successful Life by Jeff Olson
 
@@ -41,11 +41,11 @@ This book teaches the cultivation of simple habits to improve yourself and your 
 
 ### Bonus: What I’m Currently Reading 
 
-I like to read first thing in the morning, in the evening before bed, and I often take short breaks throughout the day to read for a few minutes. The audiobook I’m listening to right now is The Power of Vulnerability by Brene Brown, a series of lectures on vulnerability and how we so desperately avoid it. Dr. Brown is a social worker and rsearcher, and I enjoy how she combines her research findings with personal anecdotes throughout.
+I like to read first thing in the morning, in the evening before bed, and I often take short breaks throughout the day to read for a few minutes. The audiobook I’m listening to right now is The Power of Vulnerability by Brene Brown, a series of lectures on vulnerability and how we so desperately avoid it. Dr. Brown is a social worker and researcher, and I enjoy how she combines her research findings with personal anecdotes throughout.
 
 I’ve also begun The Seven Habits of Highly Effective People by Stephen Covey, and I’ve just finished re-reading Lock In by John Scalzi, my favorite science fiction author. I used to only read one book at a time, but I now prefer to read multiple books at once. I usually read one business or self-improvement book and one fiction book simultaneously.
 
-Do you have life-changing books you would like to recommend? Please leave me a comment on [LinkedIn](https://www.linkedin.com/in/craigwarrenwriter/), [Twitter](https://twitter.com/cwarren_writer), and [Facebook](https://www.facebook.com/craigwarrenwriter).
+Do you have life-changing books you would like to recommend? Please let me know on [LinkedIn](https://www.linkedin.com/in/craigwarrenwriter/), [Twitter](https://twitter.com/cwarren_writer), and [Facebook](https://www.facebook.com/craigwarrenwriter).
 
 At Copywriting for Healthcare, I help healthcare businesses improve their profits so they can serve more people around the world. Contact me at craig@copywritingforhealthcare.com to learn more.
 
