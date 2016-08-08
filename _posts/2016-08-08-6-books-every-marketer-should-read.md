@@ -6,6 +6,7 @@ categories: blogs
 image: "/img/2016-08-08-6-books-every-marketer-should-read.png"
 url: "http://www.copywritingforhealthcare.com/blogs/2016/08/08/6-books-every-marketer-should-read.html"
 buffer: "6 Books Every Marketer Should Read - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/08/08/6-books-every-marketer-should-read.html"
+---
 
 
 As marketers, salespeople, and entrepreneurs, it’s important to continually educate ourselves. There is so much information out there: podcasts, webinars, blogs, newspapers, email newsletters, training programs… With our schedules already full, it can be tempting to ignore one of the greatest resources available: books.
