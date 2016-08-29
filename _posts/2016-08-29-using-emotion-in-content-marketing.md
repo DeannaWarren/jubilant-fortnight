@@ -1,4 +1,4 @@
-ƒ—
+---
 layout: post
 title: Using Emotion in Content Marketing
 date: 2016-08-29
