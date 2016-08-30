@@ -32,7 +32,7 @@ Have you filled out all of the information on your profile? Completing this info
 
 7. Establish a Posting Schedule: It’s important to establish and maintain a regular schedule. For example, you might plan to share 3 posts daily, 5 days a week. This will generate a large volume of posts and increase engagement. Many companies post irregularly and receive few likes, comments and shares. Consistently sharing content keeps you top of mind with your followers when your updates are shared to their feeds. Companies who regularly share updates appear engaged with their customers.
 
-8. Share Varied Content: Many companies share articles or company updates on social media. Viewers on social media are interested in many types of content, especially multimedia content. Sharing multiple types of content also reaches different clients with different interests. Content with images receive [94% more views]http://blog.hubspot.com/marketing/visual-content-marketing-strategy#sm.00001r3ua7590vcx8yf13d7d9p449) than content without images.
+8. Share Varied Content: Many companies share articles or company updates on social media. Viewers on social media are interested in many types of content, especially multimedia content. Sharing multiple types of content also reaches different clients with different interests. Content with images receive [94% more views](http://blog.hubspot.com/marketing/visual-content-marketing-strategy#sm.00001r3ua7590vcx8yf13d7d9p449) than content without images.
 
 
 Are you interested in improving your social media profile? Would you like higher engagement with your posts?
