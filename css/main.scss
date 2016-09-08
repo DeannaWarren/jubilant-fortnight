@@ -111,6 +111,11 @@ img {
   padding-bottom: 1em;
 }
 
-.post p {
-  text-indent: 1em;
+.post {
+  p {
+    text-indent: 1em;
+  }
+  ol li, ul li {
+    font-size: 1.5em;
+  }
 }
