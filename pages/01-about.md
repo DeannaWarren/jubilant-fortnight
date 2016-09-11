@@ -11,7 +11,9 @@ permalink: /about/
 <div class="row">
 
   <div class="col-md-6">
+  
     <p>The first book Craig checked out of the library was Jules Verne’s <em>Twenty Thousand Leagues Under the Sea</em>. Craig was encouraged to pick a new book, but he persisted, asking his parents to look up many unfamiliar words no one knew. </p>
+    
     <p>Craig developed a love for learning anything and everything new and challenging— a skill that helps him explain complicated subjects in simple terms. </p>
 
     <p> In seventh grade, Craig wanted to start a GSA (gay-straight alliance) club. In a meeting with his club advisor and the principal, the two teachers began arguing, and the advisor stormed out. </p>
