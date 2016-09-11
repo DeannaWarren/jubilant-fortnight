@@ -8,7 +8,7 @@ permalink: /samples/
 <!-- <h2>Samples</h2> -->
 
 <h3>Avizia Home Page</h3>
-<p><a href="/samples/avizia-sample-homepage.pdf" value="Avizia Sample Homepage -  Craig Warren" download> Download Sample Here </a></p>
+<p><a href="/samples/avizia-sample-homepage.pdf" download> Download Sample Here </a></p>
 <p><strong>Client:</strong> Avizia offers an end-to-end telemedicine platform, including care coordination software, video devices and mobile apps. </p>  
 <p>What to Note:</p>
 <ul>
@@ -18,7 +18,7 @@ permalink: /samples/
 </ul>
 
 <h3> eVisit Landing Page </h3>
-<p><a href="/samples/evisit-sample-landing-page" value="eVisit Sample Landing Page - Craig Warren"> Download Sample Here </a></p>
+<p><a href="/samples/evisit-sample-landing-page.pdf" download> Download Sample Here </a></p>
 <p><strong>Client:</strong> eVisit is a subscription-based telehealth solution for healthcare providers, including videoconferencing, practice management software and support.</p>
 <p>What to Note:</p>
 <ul>
