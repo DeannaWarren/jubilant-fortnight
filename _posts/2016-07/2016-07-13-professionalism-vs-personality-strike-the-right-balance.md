@@ -1,9 +1,9 @@
----
+--- 
 layout: post
-title: "Professionalism vs Personality: Strike the Right Balance"
+title: Professionalism vs Personality- Strike the Right Balance
 date: 2016-07-13
 categories: blogs
-image: "/img/2016-07-13-professionalism-vs-personality-strike-the-right-balance.png"
+image: img/blog/2016-07/2016-07-13-professionalism-vs-personality-strike-the-right-balance.png
 ---
 
 Everyone is scared of coming across as unprofessional online. The rise of [online reputation management](http://bits.blogs.nytimes.com/2011/04/04/the-growing-business-of-online-reputation-management/?_r=0) shows companies are increasingly concerned about remaining professional as they generate more content. And looking at [these statistics](http://lifeexperiencesolutions.com/online-reputation-management-stats-infographi/), it’s easy to understand why…

@@ -1,11 +1,9 @@
----
+--- 
 layout: post
 title: How To Create Your First Roundup Blog
 date: 2016-08-03
 categories: blogs
-image: "/img/2016-08-03-how-to-create-your-first-roundup-blog.png"
-url: "http://www.copywritingforhealthcare.com/blogs/2016/08/03/how-to-create-your-first-roundup-blog.html"
-buffer: "How To Create Your First Roundup Blog - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/08/03/how-to-create-your-first-roundup-blog.html"
+image: /img/blog/2016-08/2016-08-03-how-to-create-your-first-roundup-blog.png
 ---
 
 

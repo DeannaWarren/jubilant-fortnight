@@ -1,11 +1,9 @@
----
+--- 
 layout: post
 title: Humanize Your Brand and Connect with Your Audience Now
 date: 2016-09-05
 categories: blogs
-image: "/img/2016-09-05-humanize-your-brand-and-connect-with-your-audience-now.png"
-url: "http://www.copywritingforhealthcare.com/blogs/2016/09/05/humanize-your-brand-and-connect-with-your-audience-now.html"
-buffer: "Humanize Your Brand and Connect with Your Audience Now - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/09/05/humanize-your-brand-and-connect-with-your-audience-now.html"
+image: /img/blog/2016-09/2016-09-05-humanize-your-brand-and-connect-with-your-audience-now.png
 ---
  
 If you're not humanizing your brand, you're missing an opportunity to connect with your audience. Why? Humanizing your brand leads to transparent and honest relationships. Customers know when you're not being genuine, and they can wreck your reputation in just a few tweets. So, humanizing your company is vital to keeping pace with your competition. 

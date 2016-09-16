@@ -1,9 +1,9 @@
----
+--- 
 layout: post
-title:  "5 Steps to Launch Your Social Media Marketing Successfully"
-date:   2016-07-22
+title: 5 Steps to Launch Your Social Media Marketing Successfully
+date: 2016-07-22
 categories: blogs
-image: "/img/2016-07-22-5-steps-to-launch-your-social-media-marketing-successfully.png"
+image: /img/blog/2016-07/2016-07-22-5-steps-to-launch-your-social-media-marketing-successfully.png
 ---
 
 According to comScore, users spent [230 billion minutes](https://www.comscore.com/Insights/Blog/Which-Social-Networks-Have-the-Most-Engaged-Audience) on Facebook in 2015. Social media presents a remarkable opportunity for any business looking to generate more traffic and turn it into leads. If your business is just getting started with social media, you may be overwhelmed by the plethora of platforms, marketing strategies to choose from, and other decisions to make. Here are 5 suggestions to help you start on the path to successful social media marketing: 

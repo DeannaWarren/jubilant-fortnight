@@ -1,10 +1,9 @@
----
+--- 
 layout: post
-title:  "8 Elements of an Attractive Social Media Profile"
-date:   2016-07-18
+title: 8 Elements of an Attractive Social Media Profile
+date: 2016-07-18
 categories: blogs
-image: "/img/2016-07-18-8-elements-of-an-attractive-social-media-profile.png"
-buffer: "8 Elements of an Attractive Social Media Profile - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/07/18/8-elements-of-an-attractive-social-media-profile.html"
+image: /img/blog/2016-07/2016-07-18-8-elements-of-an-attractive-social-media-profile.png
 ---
 
 

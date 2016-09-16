@@ -1,11 +1,9 @@
----
+--- 
 layout: post
 title: 6 Marketing Tips for Introverts
 date: 2016-07-27
 categories: blogs
-image: "/img/2016-07-27-6-marketing-tips-for-introverts.png"
-url: "http://www.copywritingforhealthcare.com/blogs/2016/07/27/6-marketing-tips-for-introverts.html"
-buffer: "6 Marketing Tips for Introverts - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/07/27/6-marketing-tips-for-introverts.html"
+image: /img/blog/2016-07/2016-07-27-6-marketing-tips-for-introverts.png
 ---
 
 "Could you give me some advice on marketing for introverts?"

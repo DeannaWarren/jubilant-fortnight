@@ -1,9 +1,9 @@
----
+--- 
 layout: post
-title:  "How Thorough Research Explodes Your Business"
-date:   2016-07-11
+title: How Thorough Research Explodes Your Business
+date: 2016-07-11
 categories: blogs
-image: "/img/2016-07-11-how-thorough-research-explodes-your-business.png"
+image: /img/blog/2016-07/2016-07-11-how-thorough-research-explodes-your-business.png
 ---
 
 When I was in college, I sat through six different seminars on research techniques. After two or three of these lectures, I felt like an expert researcher. Why, I wondered, do so many classes spend so much time teaching students how to search the internet and use online databases?

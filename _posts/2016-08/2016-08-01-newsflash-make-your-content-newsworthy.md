@@ -1,11 +1,9 @@
----
+--- 
 layout: post
-title: Newsflash! Make Your Content Newsworthy
-date: 2016-08-01
+title: Make Your Content Newsworthy
+date: 2016-08-02
 categories: blogs
-image: "/img/2016-08-01-newsflash-make-your-content-newsworthy.png"
-url: "http://www.copywritingforhealthcare.com/blogs/2016/08/01/newsflash-make-your-content-newsworthy.html"
-buffer: "Newsflash! Make Your Content Newsworthy - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/08/01/newsflash-make-your-content-newsworthy.html"
+image: /img/blog/2016-08/2016-08-02-make-your-content-newsworthy.png
 ---
 
 Picture this: You’ve just gotten comfortable in your favorite armchair to watch the latest episode of your favorite TV show…And then the commercials come on. What do you do next?

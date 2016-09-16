@@ -1,9 +1,9 @@
----
+--- 
 layout: post
-title: "9 Marketing Lessons to Learn from Music"  
-date:   2016-07-15
+title: 9 Marketing Lessons to Learn from Music
+date: 2016-07-15
 categories: blogs
-image: "/img/2016-07-15-9-marketing-lessons-to-learn-from-music.png"
+image: /img/blog/2016-07/2016-07-15-9-marketing-lessons-to-learn-from-music.png
 ---
 
 

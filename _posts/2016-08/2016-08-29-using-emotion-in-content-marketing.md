@@ -1,13 +1,10 @@
----
+--- 
 layout: post
 title: Using Emotion in Content Marketing
 date: 2016-08-29
 categories: blogs
-image: "/img/2016-08-29-using-emotion-in-content-marketing.png"
-url: "http://www.copywritingforhealthcare.com/blogs/2016/08/29/using-emotion-in-content-marketing.html"
-buffer: "Using Emotion in Content Marketing - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/08/29/using-emotion-in-content-marketing.html"
+image: /img/blog/2016-08/2016-08-29-using-emotion-in-content-marketing.png
 ---
-
  
 
 

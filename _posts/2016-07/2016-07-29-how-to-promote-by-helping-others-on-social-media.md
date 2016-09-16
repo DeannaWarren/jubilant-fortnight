@@ -1,11 +1,9 @@
----
+--- 
 layout: post
-title: How to Promote by Helping Others on Social Media
+title: How To Promote By Helping Others on Social Media
 date: 2016-07-29
 categories: blogs
-image: "/img/2016-07-29-how-to-promote-by-helping-others-on-social-media.png"
-url: "http://www.copywritingforhealthcare.com/blogs/2016/07/29/how-to-promote-by-helping-others-on-social-media.html"
-buffer: "How to Promote by Helping Others on Social Media - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/07/29/how-to-promote-by-helping-others-on-social-media.html"
+image: /img/blog/2016-07/2016-07-29-how-to-promote-by-helping-others-on-social-media.png
 ---
 
 Have you seen someone shamelessly over-promote themselves on social media? Sure, we all have unfollowed brands who post too frequently. And we all have friends that post [too many vacation photos](https://www.bostonglobe.com/lifestyle/2016/07/20/you-posting-your-vacation-photos-social-media-wrong/gL2Q9sZOQADSNaKp4npgKM/story.html), or who over-share too much personal information.

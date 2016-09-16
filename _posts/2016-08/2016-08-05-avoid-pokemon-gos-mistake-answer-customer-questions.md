@@ -1,15 +1,13 @@
----
+--- 
 layout: post
-title: "Avoid Pokemon Go’s Mistake: Answer Customer Questions"
+title: Avoid Pokemon Go’s Mistake- Answer Customer Questions
 date: 2016-08-05
 categories: blogs
-image: "/img/2016-08-05-avoid-pokemon-go’s-mistake:-answer-customer-questions.png"
-url: "http://www.copywritingforhealthcare.com/blogs/2016/08/05/avoid-pokemon-go’s-mistake:-answer-customer-questions.html"
-buffer: "Avoid Pokemon Go’s Mistake: Answer Customer Questions - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/08/05/avoid-pokemon-go’s-mistake:-answer-customer-questions.html"
+image: /img/blog/2016-08/2016-08-05-avoid-pokemon-gos-mistake-answer-customer-questions.png
 ---
 
 
-If you haven’t heard, Pokemon Go has gone from the most beloved game on the app store to one of the most hated in just a few weeks. Due to Niantic’s removal of their ‘nearby’ feature and other issues, upset fans have requested refunds, left negative reviews, and [used social media](http://www.telegraph.co.uk/news/2016/07/31/pokemon-go-fans-devastated-after-game-update-resets-their-progre/) to encourage others to do likewise. The bigger issue with Niantec’s marketing strategy is their lack of communication with their fans. As [Patricia Hernandez](http://kotaku.com/even-pokemon-gos-biggest-fans-are-turning-against-it-ri-1784654305) put it, “In 2016, it is not enough to build and launch the most popular game of the year. You have to talk to people, earn their trust, develop a relationship.”
+If you haven’t heard, Pokemon Go has gone from the most beloved game on the app store to one of the most hated in just a few weeks. Due to Niantic’s removal of their ‘nearby’ feature and other issues, upset fans have requested refunds, left negative reviews, and [used social media](http://www.telegraph.co.uk/news/2016/07/31/pokemon-go-fans-devastated-after-game-update-resets-their-progre/) to encourage others to do likewise. The bigger issue with Niantic’s marketing strategy is their lack of communication with their fans. As [Patricia Hernandez](http://kotaku.com/even-pokemon-gos-biggest-fans-are-turning-against-it-ri-1784654305) put it, “In 2016, it is not enough to build and launch the most popular game of the year. You have to talk to people, earn their trust, develop a relationship.”
 
 Fortunately, Niantic has posted an explanation [to Pokemon Go’s Facebook page](https://www.facebook.com/PokemonGO/posts/940141879465704). In part, they said, “If you haven’t heard us Tweeting much it’s because we’ve been heads down working on the game. But we’ll do our best going forward to keep you posted on what’s going on.”
 

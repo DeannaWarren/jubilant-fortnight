@@ -1,11 +1,9 @@
----
+--- 
 layout: post
 title: 8 Ways to Build Trust With Your Customers
 date: 2016-08-15
 categories: blogs
-image: "/img/2016-08-15-8-ways-to-build-trust-with-your-customers.png"
-url: "http://www.copywritingforhealthcare.com/blogs/2016/08/15/8-ways-to-build-trust-with-your-customers.html"
-buffer: "8 Ways to Build Trust With Your Customers - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/08/15/8-ways-to-build-trust-with-your-customers.html"
+image: /img/blog/2016-08/2016-08-15-8-ways-to-build-trust-with-your-customers.png
 ---
 
 Driving with my father this past weekend, he mentioned hearing a grinding sound when he accelerates. His mechanic hasn't fixed his car yet because he is unavailable. The mechanic is so busy because my dad and many others trust and rely on him to keep their cars running. How has the mechanic gained the trust of his customers, and why should you do likewise?

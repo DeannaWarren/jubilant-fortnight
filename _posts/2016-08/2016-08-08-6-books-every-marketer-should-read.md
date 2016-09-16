@@ -1,11 +1,9 @@
----
+--- 
 layout: post
-title: "6 Books Every Marketer Should Read"
+title: 6 Books Every Marketer Should Read
 date: 2016-08-08
 categories: blogs
-image: "/img/2016-08-08-6-books-every-marketer-should-read.png"
-url: "http://www.copywritingforhealthcare.com/blogs/2016/08/08/6-books-every-marketer-should-read.html"
-buffer: "6 Books Every Marketer Should Read - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/08/08/6-books-every-marketer-should-read.html"
+image: /img/blog/2016-08/2016-08-08-6-books-every-marketer-should-read.png
 ---
 
 

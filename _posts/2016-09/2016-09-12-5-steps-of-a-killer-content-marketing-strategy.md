@@ -1,11 +1,9 @@
----
+--- 
 layout: post
 title: 5 Steps of a Killer Content Marketing Strategy
 date: 2016-09-12
 categories: blogs
-image: "/img/2016-09-12-5-steps-of-a-killer-content-marketing-strategy.png"
-url: "http://www.copywritingforhealthcare.com/blogs/2016/09/12/5-steps-of-a-killer-content-marketing-strategy.html"
-buffer: "5 Steps of a Killer Content Marketing Strategy - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/09/12/5-steps-of-a-killer-content-marketing-strategy.html"
+image: /img/blog/2016-09/2016-09-12-5-steps-of-a-killer-content-marketing-strategy.png
 ---
 
 In 2014, Airbnb began publishing Pineapple, a print magazine. To help customers view Airbnb as a lifestyle experience, they decided to improve their offline marketing. They distributed thousands of copies to Airbnb hosts worldwide.

@@ -1,13 +1,10 @@
----
+--- 
 layout: post
 title: 5 Tips for Crafting an Attention-Grabbing Home Page
 date: 2016-07-25
 categories: blogs
-image: "/img/2016-07-25-5-tips-for-crafting-an-attention-grabbing-home-page.png"
-url: "http://www.copywritingforhealthcare.com/blogs/2016/07/25/5-tips-for-crafting-an-attention-grabbing-home-page.html"
-buffer: "5 Tips for Crafting an Attention-Grabbing Home Page - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/07/25/5-tips-for-crafting-an-attention-grabbing-home-page.html"
+image: /img/blog/2016-07/2016-07-25-5-tips-for-crafting-an-attention-grabbing-home-page.png
 ---
- 
 
 Your home page is like a book jacket. You're browsing the bookshelf at your local bookstore when a title catches your eye. You scan it quickly and you're intrigued, so you open the book and flip through it. If it interests you, then you buy the book and take it home.
 

@@ -1,13 +1,10 @@
----
+--- 
 layout: post
 title: Why I Should Repurpose My Blog Content
-date: 2016-08-22
+date: 2016-08-29
 categories: blogs
-image: "/img/2016-08-22-why-i-should-repurpose-my-blog-content.png"
-url: "http://www.copywritingforhealthcare.com/blogs/2016/08/22/why-i-should-repurpose-my-blog-content.html"
-buffer: "Why I Should Repurpose My Blog Content - Craig Warren http://www.copywritingforhealthcare.com/blogs/2016/08/22/why-i-should-repurpose-my-blog-content.html"
+image: /img/blog/2016-08/2016-08-29-why-i-should-repurpose-my-blog-content.png
 ---
-
 
 After over a month blogging, I’m searching for ways to save time and keep up with my content schedule. I’ve decided to scale back from 3 weekly blog posts to 1-2 posts per week. That way, I’ll keep producing quality content for you, the reader, and I'll also have more time for client work. 
 
