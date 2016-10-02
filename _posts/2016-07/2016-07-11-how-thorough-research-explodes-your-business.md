@@ -1,4 +1,4 @@
---- 
+dd--- 
 layout: post
 title: How Thorough Research Explodes Your Business
 date: 2016-07-11
