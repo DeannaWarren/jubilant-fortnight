@@ -1,3 +1,11 @@
+--- 
+layout: post
+title: 5 Ways To Save Time On Content Marketing
+date: 2016-11-14
+categories: blogs
+image: /img/blog/2016-11/2016-11-14-5-ways-to-save-time-on-content-marketing.png
+---
+
 With the holidays approaching, you're likely busier than ever. 
 
 Between completing this year's marketing projects, analyzing your results, and planning goals for next year, your schedule is likely more stuffed than a Thanksgiving turkey. Content marketing may be at the bottom of the list. With the number of items on your to-do list, let's consider 5 ways you can save time on content marketing. That way you'll get more done before the new year.
