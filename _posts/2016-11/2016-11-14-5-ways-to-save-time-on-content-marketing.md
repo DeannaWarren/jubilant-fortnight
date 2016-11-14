@@ -20,7 +20,7 @@ If the data from your analytics is unclear or incomplete, you may also want to s
 
 ### 2. Repurpose Content to Cut Writing Time
 
-If you're too busy to write new content around the holidays, no problem. You can repurpose your old blog posts, white papers, e-books, brochures, or any other type of content. Read [my post about repurposing content]gghttp://www.copywritingforhealthcare.com/blogs/2016/08/29/why-i-should-repurpose-my-blog-content.html) for more ideas.
+If you're too busy to write new content around the holidays, no problem. You can repurpose your old blog posts, white papers, e-books, brochures, or any other type of content. Read [my post about repurposing content](http://www.copywritingforhealthcare.com/blogs/2016/08/29/why-i-should-repurpose-my-blog-content.html) for more ideas.
 
 
 ### 3. Creating Templates From Your Popular Content
@@ -33,7 +33,7 @@ You can use popular blog posts and emails with high response rates. You may also
 
 ### 4. Put Time-Saving Tools to Work
 
-Writing content, promoting content, and social media promotion can take lots of time if not managed well. If you don't already, consider using social media scheduling tools such as Buffer and Hootsuite, as well as content management tools like Coschedule. You can visit this list of [54 content management tools]gghttp://www.docurated.com/all-things-productivity/49-best-content-management-tools-for-enterprises) to explore new solutions for your business. Implementing RSS and automated email notifications can speed up content promotion as well.
+Writing content, promoting content, and social media promotion can take lots of time if not managed well. If you don't already, consider using social media scheduling tools such as Buffer and Hootsuite, as well as content management tools like Coschedule. You can visit this list of [54 content management tools](http://www.docurated.com/all-things-productivity/49-best-content-management-tools-for-enterprises) to explore new solutions for your business. Implementing RSS and automated email notifications can speed up content promotion as well.
 
 If you already have marketing automation software or another solution that works well, consider how you can optimize your workflows to increase efficiency.
 
