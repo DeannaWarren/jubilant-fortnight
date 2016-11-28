@@ -12,7 +12,7 @@ Last week I discussed case studies and conducting case study interviews. In part
 
 In addition to sharing the final draft with your interviewee and their marketing team, share a link to the case study once you publish it and invite them to share it. 
 
-Also, send a thank you letter to show your appreciation. Your customer may also appreciate if you offer [something extra]http://www.storiesthatsellguide.com/2015/10/are-you-leaving-the-icing-off-customer-case-studies/) in return for their time. You might showcase their best practices at industry conferences or provide networking opportunities.
+Also, send a thank you letter to show your appreciation. Your customer may also appreciate if you offer [something extra](http://www.storiesthatsellguide.com/2015/10/are-you-leaving-the-icing-off-customer-case-studies/) in return for their time. You might showcase their best practices at industry conferences or provide networking opportunities.
 
 ### Follow Best Practices to Write Great Case Studies
 
