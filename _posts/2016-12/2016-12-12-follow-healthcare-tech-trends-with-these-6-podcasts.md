@@ -1,3 +1,10 @@
+--- 
+layout: post
+title: Follow Healthcare Tech Trends With These 6 Podcasts
+date: 2016-12-12
+categories: blogs
+image: /img/blog/2016-12/2016-12-12-follow-healthcare-tech-trends-with-these-6-podcasts.png
+---
 
 Keeping up on healthcare tech news is time-consuming. Rather than spending precious time reading dozens--or even hundreds-- of articles, why not listen to it instead? 
 
