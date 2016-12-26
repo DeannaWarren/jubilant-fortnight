@@ -3,7 +3,7 @@ layout: post
 title: What Were My Best Blogs of 2016?
 date: 2016-12-26
 categories: blogs
-image: /img/blog/2016-12/2016-12-26-what-were-my-best-blogs-of-2016?.png
+image: /img/blog/2016-12/2016-12-26-what-were-my-best-blogs-of-2016.png
 ---
 
 For the last blog post of 2016, I'm looking back on the year. Since launching the Copywriting for Healthcare blog, I've published 32 posts on copywriting, content marketing, healthcare IT and more. Whether you're new to this blog or you've followed along since the beginning, I hope you've found the content helpful and interesting. Here are 12 posts from 2016 you'll find most helpful:
